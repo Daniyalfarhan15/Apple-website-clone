@@ -1,0 +1,82 @@
+
+
+.magnifying-glass{
+    color: #cacaca;
+    
+
+}
+.magnifying-glass :hover{
+    color: white;
+}
+
+.shopping{
+    color: #cacaca;
+}
+.shopping :hover{
+    color: white;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    size: 40%;
+}
+.nav-item{
+    justify-content: space-around;
+    
+    
+}
+.collapse navbar-collapse{
+    justify-content: space-between;
+}
+
+.main-Container{
+     flex: 1; display: flex; justify-content: center; align-items: center;;
+}
+
+.items{
+    /* /margin: 15px; */
+    margin-left: 20px;
+
+}
+.text{
+  
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+    margin-top: 35px;
+
+}
+.click{
+    display: flex; 
+    flex-direction: row;
+    width: 20%;
+    justify-content:space-around
+
+}
+.iphone-text{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+    margin-top: 35px;
+    background-color:#000000;
+    color: white;
+    
+}
+
+.iphone-plus-text{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+    margin-top: 45px;
+
+
+}
+
+
